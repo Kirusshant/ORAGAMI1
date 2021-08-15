@@ -1,0 +1,2 @@
+# ORAGAMI1
+GOOD
