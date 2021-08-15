@@ -1,2 +1,1 @@
-# ORAGAMI1
-GOOD
+# Origami1Fixed
